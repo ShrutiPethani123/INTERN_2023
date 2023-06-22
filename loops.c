@@ -192,7 +192,7 @@ void main()
     input- 49
     stop
 
-13. Take 10 number from user and print that number. if number is divisible by 7 then stop to taking number from user
+14. Take 10 number from user and print that number. if number is divisible by 7 then stop to taking number from user
 
     input- 3
     3
@@ -209,7 +209,7 @@ void main()
     input- 5
     5
 
-14. Take two number from user and print HCF of two number.
+15. Take two number from user and print HCF of two number.
 
     12 - 1 2 3 4 6 12
     6 - 1 2 3 6
@@ -219,7 +219,7 @@ void main()
     4 - 1 2 4
     hcf-1
 
-15. Take two number from user and print LCM of two number.
+16. Take two number from user and print LCM of two number.
 
     12 - 12 24 36 48 60
     6 - 6 12 18 24 30
