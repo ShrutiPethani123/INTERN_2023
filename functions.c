@@ -75,3 +75,10 @@ int add(int c, int d)
 {
     return c+d;
 }
+
+
+/*
+
+print 1 to 10 numnber using function.
+
+*/
